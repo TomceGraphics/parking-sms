@@ -1,7 +1,27 @@
 # Parking SMS
 
-Pay for SMS parking, run a timer, and get an alarm-style alert so you never forget to stop.
-Native Android (Kotlin, Jetpack Compose, Material 3). Fully offline, no network permission,
+<p align="center">
+  <a href="https://github.com/TomceGraphics/parking-sms/releases/latest/download/app-debug.apk">
+    <img src="https://img.shields.io/badge/Download-APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
+  </a>
+  <a href="https://api.obtainium.imranr.dev/redirect?r=https://github.com/TomceGraphics/parking-sms">
+    <img src="https://img.shields.io/badge/Add%20to-Obtainium-4A90E2?style=for-the-badge&logo=android&logoColor=white" alt="Add to Obtainium" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/TomceGraphics/parking-sms/releases/latest">
+    <img src="https://img.shields.io/github/v/release/TomceGraphics/parking-sms?color=brightgreen&label=Latest%20Release" alt="Latest Release" />
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-GPL%203.0-blue.svg" alt="License: GPL-3.0" />
+  </a>
+  <img src="https://img.shields.io/badge/Network-None%20(Offline)-orange.svg" alt="No Network Permission" />
+  <img src="https://img.shields.io/badge/Platform-Android%208.0+-green.svg" alt="Android 8.0+" />
+</p>
+
+Pay for SMS parking, run a timer, and get an alarm-style alert so you never forget to stop.  
+Native Android (Kotlin, Jetpack Compose, Material 3). Fully offline, no network permission,  
 no Google Play Services, no analytics. License: **GPL-3.0** (see `LICENSE`).
 
 ## 1. What it does
