@@ -22,17 +22,16 @@ city number and stop it by sending `S` to the same number. It never stops by its
 
 ## Screenshots
 
-<!-- Drop screenshots here and uncomment/update the tags below -->
-<!--
 <p align="center">
-  <img src="screenshots/dashboard.png" width="240" alt="Dashboard" />
-  <img src="screenshots/alarm.png" width="240" alt="Alarm" />
-  <img src="screenshots/history.png" width="240" alt="History" />
-  <img src="screenshots/settings.png" width="240" alt="Settings" />
+  <img src="screenshots/dashboard-light.jpeg" width="220" alt="Dashboard Light Mode" />
+  <img src="screenshots/dashboard-dark.jpeg" width="220" alt="Dashboard Dark Mode" />
+  <img src="screenshots/multiple-plates.jpeg" width="220" alt="Multiple Plates" />
 </p>
--->
-
-Place your screenshots in the [`screenshots/`](screenshots/) directory. See [`screenshots/README.md`](screenshots/README.md) for suggested names and formats.
+<p align="center">
+  <img src="screenshots/advanced-custom-templates.jpeg" width="220" alt="Custom Message Templates" />
+  <img src="screenshots/onboarding-1.jpeg" width="220" alt="Onboarding Screen 1" />
+  <img src="screenshots/onboarding-2.jpeg" width="220" alt="Onboarding Screen 2" />
+</p>
 
 ## 2. Prerequisites (no Android Studio needed)
 
