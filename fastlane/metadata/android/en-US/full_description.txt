@@ -1,0 +1,13 @@
+Parking SMS helps you pay for SMS parking, runs an active timer, and alerts you with a full-screen alarm so you never forget to stop parking.
+
+Features:
+• Sends start and stop SMS with customizable message templates
+• Remembers cities, parking zones, and license plate numbers
+• Automatically formats and cleans plate and zone inputs
+• Three timer modes: Alarm only, Auto-stop at end, or Alarm then auto-stop after a grace period
+• Full-screen alarm over the lock screen with snooze and stop controls
+• Ongoing notification with a quick stop button
+• Home-screen widget and Quick Settings tile
+• Parking session history with CSV export
+• Safe test mode to simulate sending messages
+• Fully offline: zero internet permission, no ads, no trackers, no Google Play Services

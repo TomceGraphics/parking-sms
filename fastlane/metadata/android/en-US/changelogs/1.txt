@@ -1,0 +1,7 @@
+First release:
+• Send start and stop SMS with customizable templates
+• Automatic parking timer with alarm and auto-stop modes
+• Lock screen alarm, notification action, Quick Settings tile, and home widget
+• License plates and cities manager
+• Parking history and CSV export
+• Fully offline and open source
