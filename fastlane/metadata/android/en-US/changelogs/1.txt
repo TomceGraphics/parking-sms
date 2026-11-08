@@ -5,3 +5,4 @@ First release:
 • License plates and cities manager
 • Parking history and CSV export
 • Fully offline and open source
+

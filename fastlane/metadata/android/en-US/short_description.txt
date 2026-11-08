@@ -1,1 +1,1 @@
-Pay and stop SMS parking with a timer and alarm. Offline, FOSS.
+Pay and stop SMS parking with a timer and alarm. Offline and open source.

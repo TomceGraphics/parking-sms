@@ -1,13 +1,18 @@
-Parking SMS helps you pay for SMS parking, runs an active timer, and alerts you with a full-screen alarm so you never forget to stop parking.
+In many towns you start parking by texting "<zone> <plate>" to a city number and stop it by texting "S". It never stops by itself, so it is easy to forget and overpay. Parking SMS sends those messages for you, runs a timer, and rings a full-screen alarm until you act.
 
-Features:
-• Sends start and stop SMS with customizable message templates
-• Remembers cities, parking zones, and license plate numbers
-• Automatically formats and cleans plate and zone inputs
-• Three timer modes: Alarm only, Auto-stop at end, or Alarm then auto-stop after a grace period
-• Full-screen alarm over the lock screen with snooze and stop controls
-• Ongoing notification with a quick stop button
+<b>Highlights</b>
+• One-tap Pay with your city, zone, plate and timer on a single screen
+• Zones are remembered automatically, plates are cleaned as you type (bt-1110 ab becomes BT1110AB)
+• Timer modes: alarm only, auto-stop at the end, or alarm then auto-stop after a grace period
+• Optional reminder before the end, snooze, and a full-screen alarm over the lock screen
+• Ongoing notification with a Stop button, survives reboots
+• Retries a failed SMS once and never fails silently
 • Home-screen widget and Quick Settings tile
-• Parking session history with CSV export
-• Safe test mode to simulate sending messages
-• Fully offline: zero internet permission, no ads, no trackers, no Google Play Services
+• History with CSV export, editable SMS templates, Test mode that never sends anything
+• Light and dark themes, optional Material You colors
+
+<b>Private by design</b>
+No internet permission, no accounts, no analytics, no ads, no Google services. Everything stays on your phone. Free software under GPL-3.0.
+
+<b>Good to know</b>
+Standard SMS rates from your carrier apply. The app is not affiliated with any city or parking operator. For reliable alarms, allow exact alarms and full-screen alerts and set battery usage to Unrestricted.
